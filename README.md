@@ -21,6 +21,7 @@
 
 
 ##RxJS Flux (Core Libs)
+
 - [ffux](https://github.com/milankinen/ffux)
 - [Thundercats](https://github.com/ThunderCatsJS/thundercats)
 - [loxe](https://github.com/ahomu/Loxe)
@@ -30,12 +31,15 @@
 - [RxFlux](https://www.github.com/johan-olsson/RxFlux)
 
 ##RxJS and React (Core Libs)
+
 - [cycle-react](https://github.com/pH200/cycle-react) [MVI]
 
 ##Flux based RxJS Libraries (Support/Add-on Libs)
+
 - [redux-rx](https://github.com/acdlite/redux-rx)
 
 ##React based RxJS libraries (Support/Add-on Libs)
+
 - [rx-react](https://www.github.com/fdecampredon/rx-react)
 - [React-RxJS](https://www.github.com/Cmdv/React-RxJS)
 - [react-rx-component](https://www.github.com/acdlite/react-rx-component)
@@ -56,7 +60,9 @@
 - [thundercats-react](https://github.com/thundercatsjs/thundercats-react)
 
 ##Resources (demos, kits, and articles)
+
 ###Demos/Examples
+
 - [chat-fluxthis-rxjs-firebase](https://www.github.com/tjwudi/chat-fluxthis-rxjs-firebase)
 - [hn-react-rxjs](https://www.github.com/ahomu/hn-react-rxjs)
 - [koa-react-router-rxjs-example](https://www.github.com/oscarduignan/koa-react-router-rxjs-example)
@@ -68,11 +74,11 @@
 - [rxjs-react-sandbox](https://www.github.com/masotime/rxjs-react-sandbox)
 - [React-RxJs-testing](https://www.github.com/Jrende/React-RxJs-testing)
 - [rx-react-example](https://www.github.com/fdecampredon/rx-react-example)
-
 - [reactjs-rxjs-example](https://www.github.com/kmcclosk/reactjs-rxjs-example)
 - [rx-react-pinch](https://github.com/hugobessaa/rx-react-pinch)
 
 ###Starter Kits
+
 - [react-express-rx-starter](https://www.github.com/cesarvelandia/react-express-rx-starter)
  
 
@@ -85,6 +91,7 @@
 - [Functional Reactive Interfaces](https://medium.com/@bobiblazeski/functional-reactive-interfaces-e8de034de6bd)
 
 ###Videos
+
 - [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
 - [Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015](https://www.youtube.com/watch?v=a8W5VVGO-jA)
 
