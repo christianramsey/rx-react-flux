@@ -3,6 +3,20 @@
 
 [![Join the chat at https://gitter.im/christianramsey/rx-react-flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/christianramsey/rx-react-flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [RxJS + React/Flux](#)
+				- [libraries, implementations, examples, and other resources for combining ReactiveX's RxJS with Facebook's React and/or Flux](#)
+	- [RxJS flavoured Flux Implementations (Core Libs)](#)
+	- [RxJS implementations with React (Core Libs)](#)
+	- [Flux with RxJS Libraries (Support/Add-on Libs)](#)
+	- [React with RxJS Libraries (Support/Add-on Libs)](#)
+	- [Resources (demos, kits, and articles)](#)
+		- [Demos/Examples](#)
+		- [Starter Kits](#)
+		- [Articles](#)
+
+
 ##RxJS flavoured Flux Implementations (Core Libs)
 - [ffux](https://github.com/milankinen/ffux)
 - [Thundercats](https://github.com/ThunderCatsJS/thundercats)
