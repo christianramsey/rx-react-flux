@@ -18,6 +18,7 @@
 
 ## React with RxJS Libraries 
 ####(May or may not have a "Flux flow")
+- [cycle-react](https://github.com/pH200/cycle-react)
 - [rx-react](https://www.github.com/https://github.com/fdecampredon/rx-react)
 - [react-rxjs-todomvc](https://www.github.com/https://github.com/fdecampredon/react-rxjs-todomvc)
 - [cycle-react](https://www.github.com/https://github.com/pH200/cycle-react)
