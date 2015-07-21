@@ -1,21 +1,13 @@
+
+
+
 # RxJS + React/Flux
 ##### libraries, implementations, examples, and other resources for combining ReactiveX's [RxJS](https://github.com/Reactive-Extensions/RxJS) with Facebook's [React](https://github.com/facebook/react) and/or [Flux](https://github.com/facebook/flux)
 
 [![Join the chat at https://gitter.im/christianramsey/rx-react-flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/christianramsey/rx-react-flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-TOC 
-- Core Libs (libs with framework like features)
-- - RxJS flavoured Flux Implementations 
-- - RxJS implementations with React
-- Support/Add-on Libs (libs that support a modular part of development)
-- - Flux with RxJS Libraries [Support/Add-on Libs]
-- - React with RxJS Libraries
-- Resources
-- - Demos/Examples
-- - Starter Kits
-- - Articles
 
-## RxJS flavoured Flux Implementations [Core Libs]
+##RxJS flavoured Flux Implementations [Core Libs]
 - [ffux](https://github.com/milankinen/ffux)
 - [Thundercats](https://github.com/ThunderCatsJS/thundercats)
 - [loxe](https://github.com/ahomu/Loxe)
@@ -24,13 +16,13 @@ TOC
 - [react-rx](https://www.github.com/Mosho1/react-rx)
 - [RxFlux](https://www.github.com/johan-olsson/RxFlux)
 
-## RxJS implementations with React [Core Libs]
+##RxJS implementations with React [Core Libs]
 - [cycle-react](https://github.com/pH200/cycle-react) [MVI]
 
-## Flux with RxJS Libraries [Support/Add-on Libs]
+##Flux with RxJS Libraries [Support/Add-on Libs]
 - [redux-rx](https://github.com/acdlite/redux-rx)
 
-## React with RxJS Libraries [Support/Add-on Libs]
+##React with RxJS Libraries [Support/Add-on Libs]
 - [rx-react](https://www.github.com/fdecampredon/rx-react)
 - [React-RxJS](https://www.github.com/Cmdv/React-RxJS)
 - [react-rx-component](https://www.github.com/acdlite/react-rx-component)
