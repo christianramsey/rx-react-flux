@@ -37,6 +37,7 @@
 ##Flux based RxJS Libraries (Support/Add-on Libs)
 
 - [redux-rx](https://github.com/acdlite/redux-rx)
+- [observable store](https://github.com/flipflops/observable-store)
 
 ##React based RxJS libraries (Support/Add-on Libs)
 
