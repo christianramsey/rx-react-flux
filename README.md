@@ -94,7 +94,7 @@
 ###Videos
 
 - [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
-- [Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015](https://www.youtube.com/watch?v=a8W5VVGO-jA)
+- [Asynchronous JavaScript at Netflix by Matthew Podwysocki at JSConf Budapest 2015](https://www.youtube.com/watch?v=a8W5VVGO-jA)
 
 
 
