@@ -1,6 +1,7 @@
-#RxJS + React/Flux
-#####libraries, implementations, examples, and other resources for combining ReactiveX's [RxJS](https://github.com/Reactive-Extensions/RxJS) with Facebook's [React](https://github.com/facebook/react) and/or [Flux](https://github.com/facebook/flux)
+#ARxJS + React/Flux Libraries
+#A collection of RxJS + React and/or Flux libs, examples, and other resources. Feel free to update it with the lib or resources of your choice.
 
+For all those who want to chat about RxJS + React/Flux we have a room for that!
 [![Join the chat at https://gitter.im/christianramsey/rx-react-flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/christianramsey/rx-react-flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
@@ -52,9 +53,6 @@
 - [BootstrapReactRequireRx](https://www.github.com/dwsmorris/BootstrapReactRequireRx)
 - [pdx-react-observables](https://www.github.com/iirvine/pdx-react-observables)
 - [thundercats-react](https://github.com/thundercatsjs/thundercats-react)
-
-
-
 
 ##Resources (demos, kits, and articles)
 ###Demos/Examples
