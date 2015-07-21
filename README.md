@@ -4,10 +4,10 @@
 [![Join the chat at https://gitter.im/christianramsey/rx-react-flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/christianramsey/rx-react-flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## RxJS flavoured Flux Implementations
+### full-library
 - [ffux](https://github.com/milankinen/ffux)
 - [Thundercats](https://github.com/ThunderCatsJS/thundercats)
 - [loxe](https://github.com/ahomu/Loxe)
-- [redux-rx](https://github.com/acdlite/redux-rx)
 - [react-rx-flux](https://www.github.com/xgrommx/react-rx-flux)
 - [FluxRx](https://www.github.com/Willmo36/FluxRx)
 - [rxflux](https://www.github.com/gyzerok/rxflux)
@@ -17,9 +17,12 @@
 - [rx-todo](https://www.github.com/stepennwolf/rx-todo)
 - [chat-fluxthis-rxjs-firebase](https://www.github.com/tjwudi/chat-fluxthis-rxjs-firebase)
 
+## Flux with RxJS Libraries 
+####(support libraries)
+- [redux-rx](https://github.com/acdlite/redux-rx)
 
 ## React with RxJS Libraries 
-####(May or may not have a "Flux flow")
+####(support libraries)
 - [cycle-react](https://github.com/pH200/cycle-react)
 - [rx-react](https://www.github.com/fdecampredon/rx-react)
 - [cycle-react](https://www.github.com/pH200/cycle-react)
