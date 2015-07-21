@@ -2,6 +2,7 @@
 ##### libraries, implementations, examples, and other resources for combining ReactiveX's [RxJS](https://github.com/Reactive-Extensions/RxJS) with Facebook's [React](https://github.com/facebook/react) and/or [Flux](https://github.com/facebook/flux)
 
 ## RxJS flavoured Flux Implementations
+- [ffux](https://github.com/milankinen/ffux)
 - [Thundercats](https://github.com/ThunderCatsJS/thundercats)
 - [loxe](https://github.com/ahomu/Loxe)
 - [redux-rx](https://github.com/acdlite/redux-rx)
