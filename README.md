@@ -20,9 +20,7 @@
 ####(May or may not have a "Flux flow")
 - [cycle-react](https://github.com/pH200/cycle-react)
 - [rx-react](https://www.github.com/https://github.com/fdecampredon/rx-react)
-- [react-rxjs-todomvc](https://www.github.com/https://github.com/fdecampredon/react-rxjs-todomvc)
 - [cycle-react](https://www.github.com/https://github.com/pH200/cycle-react)
-- [react-rxjs-flow](https://www.github.com/https://github.com/justinwoo/react-rxjs-flow)
 - [React-RxJS](https://www.github.com/https://github.com/Cmdv/React-RxJS)
 - [react-rxjs-angular-di-todomvc](https://www.github.com/https://github.com/joelhooks/react-rxjs-angular-di-todomvc)
 - [react-rx-component](https://www.github.com/https://github.com/acdlite/react-rx-component)
@@ -42,16 +40,21 @@
 - [ReactiveSystem](https://www.github.com/https://github.com/Willmo36/ReactiveSystem)
 - [rx-react-example](https://www.github.com/https://github.com/fdecampredon/rx-react-example)
 - [rxfy-react](https://www.github.com/https://github.com/xgrommx/rxfy-react)
-- [React-RxJs-testing](https://www.github.com/https://github.com/Jrende/React-RxJs-testing)
 - [ReactiveProgrammingRx](https://www.github.com/https://github.com/nvankaam/ReactiveProgrammingRx)
 - [BootstrapReactRequireRx](https://www.github.com/https://github.com/dwsmorris/BootstrapReactRequireRx)
 - [react-express-rx-starter](https://www.github.com/https://github.com/cesarvelandia/react-express-rx-starter)
-- [RequireRxReactJQueryMobile](https://www.github.com/https://github.com/dwsmorris/RequireRxReactJQueryMobile)
 - [pdx-react-observables](https://www.github.com/https://github.com/iirvine/pdx-react-observables)
-- [rxjs-react-sandbox](https://www.github.com/https://github.com/masotime/rxjs-react-sandbox)
-- 
 
-##Resources
 
 
 ##Demos
+- [react-rxjs-flow](https://www.github.com/https://github.com/justinwoo/react-rxjs-flow)
+- [TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
+- [rxjs-react-sandbox](https://www.github.com/https://github.com/masotime/rxjs-react-sandbox)
+- [React-RxJs-testing](https://www.github.com/https://github.com/Jrende/React-RxJs-testing)
+
+##Resources
+
+###Articles
+[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
