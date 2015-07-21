@@ -6,10 +6,12 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [RxJS + React/Flux](#)
-	- [RxJS Flux (Core Libs)](#)
-	- [RxJS and React (Core Libs)](#)
-	- [Flux based RxJS Libraries (Support/Add-on Libs)](#)
-	- [React based RxJS Libraries (Support/Add-on Libs)](#)
+	- Core Libs
+		- [RxJS Flux (Core Libs)](#)
+		- [RxJS and React (Core Libs)](#)
+	- Support/Add-on Libs
+		- [Flux based RxJS Libraries (Support/Add-on Libs)](#)
+		- [React based RxJS Libraries (Support/Add-on Libs)](#)
 	- [Resources (demos, kits, and articles)](#)
 		- [Demos/Examples](#)
 		- [Starter Kits](#)
