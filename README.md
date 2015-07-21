@@ -1,7 +1,7 @@
 # RxJS + React/Flux
 ##### libraries, implementations, examples, and other resources for combining ReactiveX's [RxJS](https://github.com/Reactive-Extensions/RxJS) with Facebook's [React](https://github.com/facebook/react) and/or [Flux](https://github.com/facebook/flux)
 
-## RxJs flavoured Flux Implementations
+## RxJS flavoured Flux Implementations
 - [Thundercats](https://github.com/ThunderCatsJS/thundercats)
 - [loxe](https://github.com/ahomu/Loxe)
 - [redux-rx](https://github.com/acdlite/redux-rx)
@@ -16,7 +16,8 @@
 - [chat-fluxthis-rxjs-firebase](https://www.github.com/https://github.com/tjwudi/chat-fluxthis-rxjs-firebase)
 
 
-## RxJs + React Libraries (May or may not have a "Flux flow")
+## React with RxJS Libraries 
+####(May or may not have a "Flux flow")
 - [rx-react](https://www.github.com/https://github.com/fdecampredon/rx-react)
 - [react-rxjs-todomvc](https://www.github.com/https://github.com/fdecampredon/react-rxjs-todomvc)
 - [cycle-react](https://www.github.com/https://github.com/pH200/cycle-react)
