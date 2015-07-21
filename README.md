@@ -3,29 +3,35 @@
 
 [![Join the chat at https://gitter.im/christianramsey/rx-react-flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/christianramsey/rx-react-flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## RxJS flavoured Flux Implementations
-### full-library
+TOC 
+- Core Libs (libs with framework like features)
+- - RxJS flavoured Flux Implementations 
+- - RxJS implementations with React
+- Support/Add-on Libs (libs that support a modular part of development)
+- - Flux with RxJS Libraries [Support/Add-on Libs]
+- - React with RxJS Libraries
+- Resources
+- - Demos/Examples
+- - Starter Kits
+- - Articles
+
+## RxJS flavoured Flux Implementations [Core Libs]
 - [ffux](https://github.com/milankinen/ffux)
 - [Thundercats](https://github.com/ThunderCatsJS/thundercats)
 - [loxe](https://github.com/ahomu/Loxe)
 - [react-rx-flux](https://www.github.com/xgrommx/react-rx-flux)
-- [FluxRx](https://www.github.com/Willmo36/FluxRx)
 - [rxflux](https://www.github.com/gyzerok/rxflux)
 - [react-rx](https://www.github.com/Mosho1/react-rx)
-- [rx-react-example](https://www.github.com/fdecampredon/rx-react-example)
 - [RxFlux](https://www.github.com/johan-olsson/RxFlux)
-- [rx-todo](https://www.github.com/stepennwolf/rx-todo)
-- [chat-fluxthis-rxjs-firebase](https://www.github.com/tjwudi/chat-fluxthis-rxjs-firebase)
 
-## Flux with RxJS Libraries 
-####(support libraries)
+## RxJS implementations with React [Core Libs]
+- [cycle-react](https://github.com/pH200/cycle-react) [MVI]
+
+## Flux with RxJS Libraries [Support/Add-on Libs]
 - [redux-rx](https://github.com/acdlite/redux-rx)
 
-## React with RxJS Libraries 
-####(support libraries)
-- [cycle-react](https://github.com/pH200/cycle-react)
+## React with RxJS Libraries [Support/Add-on Libs]
 - [rx-react](https://www.github.com/fdecampredon/rx-react)
-- [cycle-react](https://www.github.com/pH200/cycle-react)
 - [React-RxJS](https://www.github.com/Cmdv/React-RxJS)
 - [react-rx-component](https://www.github.com/acdlite/react-rx-component)
 - [rx-todomvc](https://www.github.com/footballradar/rx-todomvc)
@@ -48,15 +54,20 @@
 
 
 ##Resources (demos, kits, and articles)
-###Demos
+###Demos/Examples
+- [chat-fluxthis-rxjs-firebase](https://www.github.com/tjwudi/chat-fluxthis-rxjs-firebase)
 - [hn-react-rxjs](https://www.github.com/ahomu/hn-react-rxjs)
 - [koa-react-router-rxjs-example](https://www.github.com/oscarduignan/koa-react-router-rxjs-example)
 - [react-rxjs-scroll](https://www.github.com/justinwoo/react-rxjs-scroll)
 - [react-rxjs-flow](https://www.github.com/justinwoo/react-rxjs-flow)
+- [rx-todo](https://www.github.com/stepennwolf/rx-todo)
+- [react-rxjs-angular-di-todomvc](https://www.github.com/joelhooks/react-rxjs-angular-di-todomvc) 
 - [TodoMVC implementation with React and RxJS](https://github.com/fdecampredon/react-rxjs-todomvc)
 - [rxjs-react-sandbox](https://www.github.com/masotime/rxjs-react-sandbox)
 - [React-RxJs-testing](https://www.github.com/Jrende/React-RxJs-testing)
-- [react-rxjs-angular-di-todomvc](https://www.github.com/joelhooks/react-rxjs-angular-di-todomvc) - [reactjs-rxjs-example](https://www.github.com/kmcclosk/reactjs-rxjs-example)
+- [rx-react-example](https://www.github.com/fdecampredon/rx-react-example)
+
+- [reactjs-rxjs-example](https://www.github.com/kmcclosk/reactjs-rxjs-example)
 - [rx-react-pinch](https://github.com/hugobessaa/rx-react-pinch)
 
 ###Starter Kits
