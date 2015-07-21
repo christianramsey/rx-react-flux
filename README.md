@@ -4,17 +4,16 @@
 
 ## RxJs Flux Implementations
 
-- [fdecampredon/rx-flux](https://www.github.com/https://github.com/fdecampredon/rx-flux)
-- [xgrommx/react-rx-flux](https://www.github.com/https://github.com/xgrommx/react-rx-flux)
-- [Willmo36/FluxRx](https://www.github.com/https://github.com/Willmo36/FluxRx)
-- [gyzerok/rxflux](https://www.github.com/https://github.com/gyzerok/rxflux)
-- [Mosho1/react-rx](https://www.github.com/https://github.com/Mosho1/react-rx)
-- [fdecampredon/rx-react-example](https://www.github.com/https://github.com/fdecampredon/rx-react-example)
-- [johan-olsson/RxFlux](https://www.github.com/https://github.com/johan-olsson/RxFlux)
-- [stepennwolf/rx-todo](https://www.github.com/https://github.com/stepennwolf/rx-todo)
-- [tjwudi/chat-fluxthis-rxjs-firebase](https://www.github.com/https://github.com/tjwudi/chat-fluxthis-rxjs-firebase)
-- [fdecampredon/rx-react](https://www.github.com/https://github.com/fdecampredon/rx-react)
-
+- [rx-flux](https://www.github.com/https://github.com/fdecampredon/rx-flux)
+- [react-rx-flux](https://www.github.com/https://github.com/xgrommx/react-rx-flux)
+- [FluxRx](https://www.github.com/https://github.com/Willmo36/FluxRx)
+- [rxflux](https://www.github.com/https://github.com/gyzerok/rxflux)
+- [react-rx](https://www.github.com/https://github.com/Mosho1/react-rx)
+- [rx-react-example](https://www.github.com/https://github.com/fdecampredon/rx-react-example)
+- [RxFlux](https://www.github.com/https://github.com/johan-olsson/RxFlux)
+- [rx-todo](https://www.github.com/https://github.com/stepennwolf/rx-todo)
+- [chat-fluxthis-rxjs-firebase](https://www.github.com/https://github.com/tjwudi/chat-fluxthis-rxjs-firebase)
+- 
 ## RxJs + React Libraries
 - [fdecampredon/react-rxjs-todomvc](https://www.github.com/https://github.com/fdecampredon/react-rxjs-todomvc)
 - [pH200/cycle-react](https://www.github.com/https://github.com/pH200/cycle-react)
