@@ -8,7 +8,6 @@
 - [Thundercats](https://github.com/ThunderCatsJS/thundercats)
 - [loxe](https://github.com/ahomu/Loxe)
 - [redux-rx](https://github.com/acdlite/redux-rx)
-- [rx-flux](https://www.github.com/fdecampredon/rx-flux)
 - [react-rx-flux](https://www.github.com/xgrommx/react-rx-flux)
 - [FluxRx](https://www.github.com/Willmo36/FluxRx)
 - [rxflux](https://www.github.com/gyzerok/rxflux)
@@ -40,6 +39,7 @@
 - [ReactiveProgrammingRx](https://www.github.com/nvankaam/ReactiveProgrammingRx)
 - [BootstrapReactRequireRx](https://www.github.com/dwsmorris/BootstrapReactRequireRx)
 - [pdx-react-observables](https://www.github.com/iirvine/pdx-react-observables)
+- [thundercats-react](https://github.com/thundercatsjs/thundercats-react)
 
 
 
