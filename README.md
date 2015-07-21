@@ -1,5 +1,5 @@
-#ARxJS + React/Flux Libraries
-#A collection of RxJS + React and/or Flux libs, examples, and other resources. Feel free to update it with the lib or resources of your choice.
+#RxJS + React/Flux Libraries
+###A collection of RxJS + React and/or Flux libs, examples, and other resources. Feel free to update it with the lib or resources of your choice.
 
 For all those who want to chat about RxJS + React/Flux we have a room for that!
 [![Join the chat at https://gitter.im/christianramsey/rx-react-flux](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/christianramsey/rx-react-flux?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
