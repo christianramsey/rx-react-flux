@@ -6,7 +6,6 @@
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
 - [RxJS + React/Flux](#)
-				- [libraries, implementations, examples, and other resources for combining ReactiveX's RxJS with Facebook's React and/or Flux](#)
 	- [RxJS Flux (Core Libs)](#)
 	- [RxJS and React (Core Libs)](#)
 	- [Flux based RxJS Libraries (Support/Add-on Libs)](#)
