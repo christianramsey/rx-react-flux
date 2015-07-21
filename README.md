@@ -24,11 +24,9 @@
 - [cycle-react](https://www.github.compH200/cycle-react)
 - [React-RxJS](https://www.github.comCmdv/React-RxJS)
 - [react-rx-component](https://www.github.comacdlite/react-rx-component)
-- [rx-todomvc](https://www.github.comfootballradar/rx-todomvc)
 - [RxReact](https://www.github.comAlexMost/RxReact)
 - [sails-rx-react-js](https://www.github.comerikschlegel/sails-rx-react-js)
 - [react-rx-flux](https://www.github.comxgrommx/react-rx-flux)
-- [reactive-sandbox](https://www.github.comjoelhooks/reactive-sandbox)
 - [rxjs-react](https://www.github.combobiblazeski/rxjs-react)
 - [react-rxjs-reactive](https://www.github.coms5ot/react-rxjs-reactive)
 - [react-rx](https://www.github.comMosho1/react-rx)
@@ -53,6 +51,9 @@
 - [React-RxJs-testing](https://www.github.comJrende/React-RxJs-testing)
 - [react-rxjs-angular-di-todomvc](https://www.github.comjoelhooks/react-rxjs-angular-di-todomvc) - [reactjs-rxjs-example](https://www.github.comkmcclosk/reactjs-rxjs-example)
 - [rx-react-pinch](https://github.com/hugobessaa/rx-react-pinch)
+- [reactive-sandbox](https://www.github.comjoelhooks/reactive-sandbox)
+- [rx-todomvc](https://www.github.comfootballradar/rx-todomvc)
+
 
 ###Starter Kits
 - [react-express-rx-starter](https://www.github.comcesarvelandia/react-express-rx-starter)
