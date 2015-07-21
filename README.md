@@ -78,15 +78,15 @@
 
 ###Articles
 
-[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-[Combining Flux and FRP: Hello ffux!](https://medium.com/@milankinen/combining-flux-and-frp-hello-ffux-b04ff20fcbc6)
-[Coding with React like a Game Developer](https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643)
-[Functional Reactive React.js](https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540)
-[Functional Reactive Interfaces](https://medium.com/@bobiblazeski/functional-reactive-interfaces-e8de034de6bd)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [Combining Flux and FRP: Hello ffux!](https://medium.com/@milankinen/combining-flux-and-frp-hello-ffux-b04ff20fcbc6)
+- [Coding with React like a Game Developer](https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643)
+- [Functional Reactive React.js](https://medium.com/@garychambers108/functional-reactive-react-js-b04a8d97a540)
+- [Functional Reactive Interfaces](https://medium.com/@bobiblazeski/functional-reactive-interfaces-e8de034de6bd)
 
 ###Videos
-[Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
-[Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015](https://www.youtube.com/watch?v=a8W5VVGO-jA)
+- [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
+- [Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015](https://www.youtube.com/watch?v=a8W5VVGO-jA)
 
 
 
