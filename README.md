@@ -8,8 +8,8 @@
 
 - [RxJS + React/Flux](#)
 	- Core Libs
-		- [RxJS Flux (Core Libs)](#RxJS Flux (Core Libs))
-		- [RxJS and React (Core Libs)](#)
+		- [RxJS Flux (Core Libs)](#rxjs-flux-core-libs)
+		- [RxJS and React (Core Libs)](#rxjs-and-react-core-libs)
 	- Support/Add-on Libs
 		- [Flux based RxJS Libraries (Support/Add-on Libs)](#)
 		- [React based RxJS Libraries (Support/Add-on Libs)](#)
