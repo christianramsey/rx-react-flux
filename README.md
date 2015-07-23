@@ -16,6 +16,7 @@
 	- [Resources (demos, kits, and articles)](#resources-demos-kits-and-articles)
 		- [Demos/Examples](#demosexamples)
 		- [Starter Kits](#starter-kits)
+		- [Books and Docs](#books-and-docs)
 		- [Articles](#articles)
 		- [Videos](#videos)
 
@@ -82,8 +83,9 @@
 
 - [react-express-rx-starter](https://www.github.com/cesarvelandia/react-express-rx-starter)
  
-### Books & Docs
+###Books and Docs
 - [Rx Book](http://xgrommx.github.io/rx-book)
+
 ###Articles
 
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
