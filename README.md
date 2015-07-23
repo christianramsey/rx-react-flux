@@ -82,7 +82,8 @@
 
 - [react-express-rx-starter](https://www.github.com/cesarvelandia/react-express-rx-starter)
  
-
+### Books & Docs
+- [Rx Book](http://xgrommx.github.io/rx-book)
 ###Articles
 
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
