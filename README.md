@@ -22,7 +22,7 @@
 
 
 ##RxJS Flux (Core Libs)
-
+- [Flux Stream](https://github.com/skellyb/fluxstream)
 - [ffux](https://github.com/milankinen/ffux)
 - [Thundercats](https://github.com/ThunderCatsJS/thundercats)
 - [loxe](https://github.com/ahomu/Loxe)
@@ -64,7 +64,7 @@
 ##Resources (demos, kits, and articles)
 
 ###Demos/Examples
-
+- [Flux By Rx](https://github.com/duncanmak/experiments/tree/action-playback/flux-by-rx)
 - [chat-fluxthis-rxjs-firebase](https://www.github.com/tjwudi/chat-fluxthis-rxjs-firebase)
 - [hn-react-rxjs](https://www.github.com/ahomu/hn-react-rxjs)
 - [koa-react-router-rxjs-example](https://www.github.com/oscarduignan/koa-react-router-rxjs-example)
