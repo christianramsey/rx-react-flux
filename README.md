@@ -22,6 +22,7 @@
 
 
 ##RxJS Flux (Core Libs)
+- [Rx Redux](https://github.com/jas-chen/rx-redux)
 - [Flux Stream](https://github.com/skellyb/fluxstream)
 - [ffux](https://github.com/milankinen/ffux)
 - [Thundercats](https://github.com/ThunderCatsJS/thundercats)
