@@ -88,7 +88,7 @@
 - [Rx Book](http://xgrommx.github.io/rx-book)
 
 ###Articles
-
+- Functional Reactive Programming FRP(https://github.com/mech/Notes/blob/b04951aad3a02991ff6e68f90555b6af12ce4445/JavaScript/React/FRP.md)
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [Combining Flux and FRP: Hello ffux!](https://medium.com/@milankinen/combining-flux-and-frp-hello-ffux-b04ff20fcbc6)
 - [Coding with React like a Game Developer](https://medium.com/@PhilPlckthun/coding-with-react-like-a-game-developer-e39ffaed1643)
